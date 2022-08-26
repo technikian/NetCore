@@ -3,9 +3,9 @@
 import socket
 import time
 
-HOST = '192.168.3.16'  # The server's hostname or IP address
+HOST = '125.236.211.85'  # The server's hostname or IP address
 PORT = 10020        # The port used by the server
-FILE = "test.txt"
+FILE = "test4.txt"
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 	s.connect((HOST, PORT))

@@ -1,6 +1,0 @@
-ip = '172.16.1.33'
-msgbus_port = 10010
-shell_port = 10011
-dashboard_port = 80
-reconnect_delay = 15
-tcp_processors = 1
