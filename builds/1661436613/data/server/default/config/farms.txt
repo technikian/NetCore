@@ -1,0 +1,66 @@
+# name, farm id, modbus port
+"Taurima Farms [5004]", 1, 501
+"Matai Farms [5010]", 2, 502
+"Falcon 6 [5001]", 3, 503
+"Gilchrist Road Dairy [5002]", 4, 504
+"Sharp Trust [5003]", 5, 505
+"Anderson Twin Rivers [5011]", 6, 506
+"Springdale Farm Trust [5009]", 7, 507
+"Erickson Dairies [5006]", 8, 508
+"Landcorp - Moranon [5005]", 9, 509
+"McBeth [5007]", 10, 510
+"Bent [5008]", 11, 511
+"Oto Trust [5012]", 12, 512
+"Dunkirk [5013]", 13, 513
+"Amtink - Waituna [5014]", 14, 521
+"Bushview [5015]", 15, 522
+"Buddy Demo [5016]", 16, 523
+"Broadlands [5017]", 17, 524
+"Richard Hubber [5018]", 18, 525
+"Richard Hubber [5019]", 19, 526
+"Green Meadows [5020]", 20, 527
+"Greenhart [5021]", 21, 528
+"Demo Pivot [5022]", 22, 529
+"Cameron Kerr [5023]", 23, 530
+"Oostveen [5024]", 24, 531
+"Barwell Farm Ltd [5025]", 25, 532
+"None [5026]", 26, 533
+"Tindale [5027]", 27, 541
+"Burnett [5028]", 28, 542
+"Pineleigh [5029]", 29, 543
+"Falcon 1 [5030]", 30, 544
+"Falcon 2 [5031]", 31, 545
+"None [5032]", 32, 546
+"None [5033]", 33, 547
+"None [5034]", 34, 548
+"None [5035]", 35, 549
+"None [5036]", 36, 550
+"None [5037]", 37, 551
+"None [5038]", 38, 552
+"None [5039]", 39, 553
+"Ashburton District Council [5040]", 40, 561
+"Demo Soil Moisture [5041]", 41, 562
+"None [5042]", 42, 563
+"None [5043]", 43, 564
+"None [5044]", 44, 565
+"None [5045]", 45, 566
+"None [None]", 46, 567
+"None [None]", 47, 568
+"None [None]", 48, 569
+"None [None]", 49, 570
+"None [None]", 50, 571
+"None [None]", 51, 572
+"None [None]", 52, 573
+"None [5060]", 53, 581
+"None [5061]", 54, 582
+"None [5062]", 55, 583
+"None [5063]", 56, 584
+"None [5064]", 57, 585
+"None [5065]", 58, 586
+"None [5066]", 59, 587
+"None [5067]", 60, 588
+"None [5068]", 61, 589
+"None [5069]", 62, 590
+"None [5070]", 63, 591
+"None [5071]", 64, 592
+"None [5072]", 65, 593
